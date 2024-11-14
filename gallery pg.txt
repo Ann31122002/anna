@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Gallery page</title>
+</head>
+<body>
+<h2><b><center>GALLERY PAGE</center></b></h2>
+<br>
+
+</body>
+</html>

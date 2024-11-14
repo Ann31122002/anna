@@ -1,0 +1,13 @@
+<html>
+<head><title>tags</title></head>
+<body>
+<h2>BASIC HTML TAGS:</h2>
+<h4>Head Tag</h4>
+<p>The head tag <head> contains all the elements describing the document. </p>
+<h4>Title Tag</h4>
+<p>The title tag <title> specifies the HTML page title, which is shown in the browser’s title bar. </p>
+<h4>Body Tag</h4>
+<p>The body tag <body> is where you insert your web page’s content.  </p>
+<h4>Paragraph  Tag</h4>
+<p>A paragraph tag <p> is used to define a paragraph on a web page. </p>
+<h4>Heading Tag</h4>
